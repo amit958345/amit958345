@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Amit Ranjan Sahu</h1>
 
@@ -127,22 +127,19 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/amit958345">
-    <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=amit958345&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github"
-    alt="Amit's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/amit958345">
-    <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"/>
-  </a>
+  <img
+    src="github-metrics.svg"
+    alt="Amit's GitHub Statistics"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img width="65%"
-  src="https://streak-stats.demolab.com?user=amit958345&theme=radical&hide_border=true"
-  alt="GitHub Streak Statistics"/>
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=amit958345&theme=radical&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
