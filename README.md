@@ -14,7 +14,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 <!-- ================= ABOUT ME ================= -->
 
-## 🚔 About Me
+## 🎓 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student at NIST University (2023–2027).
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI.
@@ -57,7 +57,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
 ### 🧠 AI Engineering
@@ -127,7 +127,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=amit958345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=amit958345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
     alt="GitHub Statistics"
   />
@@ -135,7 +135,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true&langs_count=8"
     height="180"
     alt="Most Used Languages"
   />
