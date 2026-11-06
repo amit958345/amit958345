@@ -1,134 +1,24 @@
-<h1 align="center">Hi 👋, I'm Amit Ranjan Sahu</h1><h3 align="center">AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Student</h3><p align="center">
-  <a href="https://github.com/amit958345">
-    <img src="https://komarev.com/ghpvc/?username=amit958345&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-  </a>
-</p>---
+# 💫 About Me:
+🔭 I'm currently working on DiaPredict – Advanced Diabetes Prediction & Risk Assessment<br>👯 I'm looking to collaborate on AI/ML, Generative AI & Open Source Projects<br>🤝 I'm looking for help with AI Engineering, Model Deployment & Full Stack Development<br>🌱 I'm currently learning Advanced Machine Learning, Deep Learning, RAG & DSA<br>💬 Ask me about Python, Java, Machine Learning, Data Analysis & SQL<br>⚡ Fun fact: I love turning ideas into real-world projects!
 
-👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student at NIST University (2023–2027).
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI.
-- 💻 Experienced with Python, Java, C and Data Science.
-- 🔭 Currently working on DiaPredict – Diabetes Prediction & Risk Assessment.
-- 🌱 Exploring Deep Learning, RAG, LangChain and AI Engineering.
-- 🚀 Building practical projects to solve real-world problems.
-- 🤝 Interested in collaborating on AI/ML and Open Source projects.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amit Ranjan Sahu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit.ranjansahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-ranjan-sahu-952b46218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuamitranjan105@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amit958345&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=amit958345&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amit958345&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🛠️ Technical Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amit958345&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Programming Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Frontend & Backend
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"JSP" (https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-
-AI / Machine Learning & Data Science
-
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-"XGBoost" (https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-AI Engineering
-
-"LangChain" (https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-Database & Tools
-
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"SQLite" (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amit958345&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=amit958345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Featured Projects
-
-🩺 DiaPredict – Diabetes Prediction & Risk Assessment
-
-- Machine Learning-based diabetes risk prediction system.
-- Performs data preprocessing, exploratory data analysis and feature engineering.
-- Uses machine learning models for prediction and evaluation.
-- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib.
-
-"View Project" (https://github.com/amit958345/diabetes-prediction-major)
-
-🛒 RecomAI – AI-Powered E-Commerce Recommendation System
-
-- Product recommendation system using product similarity.
-- Implements TF-IDF-based recommendation techniques.
-- REST API integration using FastAPI.
-- Interactive frontend with React.
-- Tech Stack: Python, Pandas, Scikit-learn, FastAPI, React, SQLite.
-
-"View Project" (https://github.com/amit958345/RecomAI)
-
-💼 Job Application Tracking System
-
-- Java-based job application management application.
-- Tracks company names, job roles and application statuses.
-- Supports database integration and CRUD operations.
-- Tech Stack: Java, MySQL, JDBC.
-
-"View Project" (https://github.com/amit958345/Job-Application-Tracking-System)
-
-🏭 Department-wise Production Tracking System
-
-- Production monitoring system with department-wise reporting.
-- MySQL database integration.
-- Interactive dashboards for data visualization.
-- Tech Stack: Java, JSP, Servlets, MySQL.
-
----
-
-📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit958345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amit958345&theme=radical&hide_border=true" width="70%"/>
-</p>---
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit958345&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>---
-
-🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/amit958345">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/amit-ranjan-sahu-952b46218">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mikasha.xyz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:sahuamitranjan105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>---
-
-<h3 align="center">💡 "Turning ideas into intelligent solutions, one project at a time."</h3><p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
