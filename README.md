@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Amit Ranjan Sahu</h1>
 
@@ -12,21 +12,21 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 🎓 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student at NIST University (2023–2027).
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI.
 - 💻 Experienced with Python, Java, C and Data Science.
-- 🚀 Currently working on DiaPredict – Diabetes Prediction & Risk Assessment.
-- 🌱 Exploring Deep Learning, RAG, LangChain and AI Engineering.
+- 🩺 Currently working on DiaPredict – Diabetes Prediction & Risk Assessment.
+- 🚀 Exploring Deep Learning, RAG, LangChain and AI Engineering.
 - 🛠️ Building practical projects to solve real-world problems.
 - 🤝 Interested in collaborating on AI/ML and Open Source projects.
 
 ---
 
-<!-- ================= TECHNICAL SKILLS ================= -->
+<!-- ===================== TECHNICAL SKILLS ===================== -->
 
 ## 🛠️ Technical Skills
 
@@ -35,7 +35,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -57,13 +57,13 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🧠 AI Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
@@ -80,7 +80,7 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
@@ -121,49 +121,48 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
+    width="49%"
     src="https://github-stats-extended.vercel.app/api?username=amit958345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
     alt="GitHub Statistics"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="180"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=amit958345&layout=compact&theme=radical&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=amit958345&theme=radical&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
+    width="65%"
+    src="https://streak-stats.demolab.com?user=amit958345&theme=radical&hide_border=true"
+    alt="GitHub Streak Statistics"
   />
 </p>
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+<!-- ===================== ACHIEVEMENTS ===================== -->
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  ⭐ Building Projects &nbsp; • &nbsp;
-  🚀 Contributing to GitHub &nbsp; • &nbsp;
+  ⭐ Building Projects
+  &nbsp; • &nbsp;
+  🚀 Contributing to GitHub
+  &nbsp; • &nbsp;
   💻 Learning Every Day
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
 
@@ -173,11 +172,11 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/amit-ranjan-sahu-95246218">
+<a href="https://www.linkedin.com/in/amit-ranjan-sahu-95246218">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/mikasha.xyz">
+<a href="https://www.instagram.com/mikasha.xyz">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -188,6 +187,8 @@ AI/ML Enthusiast | Python & Java Developer | Computer Science Engineering Studen
 </p>
 
 ---
+
+<!-- ===================== FOOTER ===================== -->
 
 <h3 align="center">
   💡 "Turning ideas into intelligent solutions, one project at a time."
